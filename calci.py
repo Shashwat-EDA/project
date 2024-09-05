@@ -13,3 +13,7 @@ if(ch='/')
 {
 print(num1/num2)
 }
+if(ch='-')
+{
+num1-num2
+}

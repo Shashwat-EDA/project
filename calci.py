@@ -5,3 +5,11 @@ if(ch='+')
 {
 print(num1+num2)
 }
+if(ch='*')
+{
+print(num1*num2)
+}
+if(ch='/')
+{
+print(num1/num2)
+}
